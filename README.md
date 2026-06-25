@@ -1,2 +1,0 @@
-# Himdrishti
-Web site
